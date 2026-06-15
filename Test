@@ -1,0 +1,132 @@
+Ty's Least Balanced Universe
+SEC,East,West,,,,,,,,,,,
+ACC,Atlantic,Coastal,,,,,,,,,,,
+Big Ten,East,West,,,,,,,,,,,
+Big 12,Sheriff,Outlaw,,,,,,,,,,,
+Pac 12,North,South,,,,,,,,,,,
+AAC,East,West,,,,,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
+# SEC,,,,,,,,,,,,,
+TEAM,SEC,West,Alabama,ALA,95,TEN,,,,,,,
+TEAM,SEC,West,Texas A&M,TAMU,25,SCAR,,,,,,,
+TEAM,SEC,West,LSU,LSU,25,UF,,,,,,,
+TEAM,SEC,West,Auburn,AUB,25,UGA,,,,,,,
+TEAM,SEC,West,Mississippi St,MSST,25,UK,,,,,,,
+TEAM,SEC,West,Ole Miss,MISS,25,VAN,,,,,,,
+TEAM,SEC,West,Arkansas,ARK,25,MIZ,,,,,,,
+TEAM,SEC,East,Georgia,UGA,25,AUB,,,,,,,
+TEAM,SEC,East,Florida,UF,25,LSU,,,,,,,
+TEAM,SEC,East,Tennessee,TEN,25,ALA,,,,,,,
+TEAM,SEC,East,South Carolina,SCAR,25,TAMU,,,,,,,
+TEAM,SEC,East,Missouri,MIZ,25,ARK,,,,,,,
+TEAM,SEC,East,Kentucky,UK,25,MSST,,,,,,,
+TEAM,SEC,East,Vanderbilt,VAN,25,MISS,,,,,,,
+# ACC,,,,,,,,,,,,,
+TEAM,ACC,Atlantic,Clemson,CLEM,25,GT,,,,,,,
+TEAM,ACC,Atlantic,Florida St,FSU,25,UM,,,,,,,
+TEAM,ACC,Atlantic,Louisville,LOU,25,UVA,,,,,,,
+TEAM,ACC,Atlantic,NC State,NCST,25,UNC,,,,,,,
+TEAM,ACC,Atlantic,Syracuse,SYR,25,PITT,,,,,,,
+TEAM,ACC,Atlantic,Boston College,BC,25,VT,,,,,,,
+TEAM,ACC,Atlantic,Wake Forest,WF,25,DUKE,,,,,,,
+TEAM,ACC,Coastal,Miami,UM,25,FSU,,,,,,,
+TEAM,ACC,Coastal,Virginia Tech,VT,25,BC,,,,,,,
+TEAM,ACC,Coastal,UNC,UNC,25,NCST,,,,,,,
+TEAM,ACC,Coastal,Pittsburgh,PITT,25,SYR,,,,,,,
+TEAM,ACC,Coastal,Georgia Tech,GT,25,CLEM,,,,,,,
+TEAM,ACC,Coastal,Duke,DUKE,25,WF,,,,,,,
+TEAM,ACC,Coastal,Virginia,UVA,25,LOU,,,,,,,
+# B10,,,,,,,,,,,,,
+TEAM,Big Ten,West,Wisconsin,WIS,25,OSU,,,,,,,
+TEAM,Big Ten,West,Nebraska,NEB,25,MICH,,,,,,,
+TEAM,Big Ten,West,Iowa,IOWA,25,PSU,,,,,,,
+TEAM,Big Ten,West,Northwestern,NW,25,MSU,,,,,,,
+TEAM,Big Ten,West,Purdue,PUR,25,MD,,,,,,,
+TEAM,Big Ten,West,Minnesota,MINN,25,IND,,,,,,,
+TEAM,Big Ten,West,Illinois,ILL,25,RUT,,,,,,,
+TEAM,Big Ten,East,Ohio State,OSU,25,WIS,,,,,,,
+TEAM,Big Ten,East,Michigan,MICH,25,NEB,,,,,,,
+TEAM,Big Ten,East,Penn State,PSU,25,IOWA,,,,,,,
+TEAM,Big Ten,East,Michigan St,MSU,25,NW,,,,,,,
+TEAM,Big Ten,East,Maryland,MD,25,PUR,,,,,,,
+TEAM,Big Ten,East,Indiana,IND,25,MINN,,,,,,,
+TEAM,Big Ten,East,Rutgers,RUT,25,ILL,,,,,,,
+# Big12,,,,,,,,,,,,,
+TEAM,Big 12,Sheriff,Texas,TEX,35,OKL,,,,,,,
+TEAM,Big 12,Sheriff,TCU,TCU,25,OKST,,,,,,,
+TEAM,Big 12,Sheriff,Boise State,BSU,25,KSU,,,,,,,
+TEAM,Big 12,Sheriff,Texas Tech,TTU,25,WVU,,,,,,,
+TEAM,Big 12,Sheriff,Baylor,BAY,25,ARMY,,,,,,,
+TEAM,Big 12,Sheriff,Colorado St,CSU,25,WYO,,,,,,,
+TEAM,Big 12,Sheriff,Rice,RICE,25,KU,,,,,,,
+TEAM,Big 12,Outlaw,Oklahoma,OKL,25,TEX,,,,,,,
+TEAM,Big 12,Outlaw,Oklahoma St,OKST,25,TCU,,,,,,,
+TEAM,Big 12,Outlaw,Kansas St,KSU,25,BSU,,,,,,,
+TEAM,Big 12,Outlaw,West Virginia,WVU,25,TTU,,,,,,,
+TEAM,Big 12,Outlaw,Army,ARMY,25,BAY,,,,,,,
+TEAM,Big 12,Outlaw,Wyoming,WYO,25,CSU,,,,,,,
+TEAM,Big 12,Outlaw,Kansas,KU,25,RICE,,,,,,,
+# Pac 12,,,,,,,,,,,,,
+TEAM,Pac 12,North,Oregon,ORE,25,UTAH,,,,,,,
+TEAM,Pac 12,North,Notre Dame,ND,25,USC,,,,,,,
+TEAM,Pac 12,North,Washington,WASH,25,ARIZ,,,,,,,
+TEAM,Pac 12,North,Stanford,STAN,25,BYU,,,,,,,
+TEAM,Pac 12,North,Washington St,WSU,25,ASU,,,,,,,
+TEAM,Pac 12,North,California,CAL,25,UCLA,,,,,,,
+TEAM,Pac 12,North,Oregon St,ORST,25,COLO,,,,,,,
+TEAM,Pac 12,South,USC,USC,25,ND,,,,,,,
+TEAM,Pac 12,South,UCLA,UCLA,25,CAL,,,,,,,
+TEAM,Pac 12,South,Utah,UTAH,25,ORE,,,,,,,
+TEAM,Pac 12,South,BYU,BYU,25,STAN,,,,,,,
+TEAM,Pac 12,South,Arizona,ARIZ,25,WASH,,,,,,,
+TEAM,Pac 12,South,Arizona St,ASU,25,WSU,,,,,,,
+TEAM,Pac 12,South,Colorado,COLO,25,ORST,,,,,,,
+# AAC,,,,,,,,,,,,,
+TEAM,AAC,West,Houston,HOU,25,UCF,,,,,,,
+TEAM,AAC,West,Memphis,MEM,25,CIN,,,,,,,
+TEAM,AAC,West,SMU,SMU,25,USF,,,,,,,
+TEAM,AAC,West,App State,APP,25,TROY,,,,,,,
+TEAM,AAC,West,Navy,NAVY,25,TEM,,,,,,,
+TEAM,AAC,West,Tulane,TULN,25,ECU,,,,,,,
+TEAM,AAC,West,Tulsa,TLSA,25,CONN,,,,,,,
+TEAM,AAC,East,UCF,UCF,25,HOU,,,,,,,
+TEAM,AAC,East,Cincinnati,CIN,25,MEM,,,,,,,
+TEAM,AAC,East,South Florida,USF,25,SMU,,,,,,,
+TEAM,AAC,East,Troy,TROY,25,APP,,,,,,,
+TEAM,AAC,East,Temple,TEM,25,NAVY,,,,,,,
+TEAM,AAC,East,East Carolina,ECU,25,TULN,,,,,,,
+TEAM,AAC,East,Connecticut,CONN,25,TLSA,,,,,,,
+COACH,USF,Jimmy Delavue,40,99,99,99,99,Spread,Aggressive,,,,
+OC,USF,Timmy Montagiue,40,99,QB,Deep Pass,,,,,,,
+DC,USF,Finney,40,99,LB,Inside Run,,,,,,,
+COACH,ALA,Nick Saban,40,99,99,99,99,Spread,Aggressive,,,,
+OC,ALA,Mike Locksley,40,99,QB,Deep Pass,,,,,,,
+DC,ALA,Kirby Smart,40,99,LB,Inside Run,,,,,,,
+PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
+PLAYER,ALA,QB,Peyton Manning,Fr,78,220,200,200,200,200,200,200,200
+PLAYER,ALA,QB,Dan Marino,Fr,78,220,150,150,150,150,150,150,150
+PLAYER,ALA,RB,Walter Payton,Fr,73,2020,125,125,125,125,125,125,125
+PLAYER,ALA,RB,Jim Brown,Fr,702,220,100,100,100,100,100,100,100
+PLAYER,ALA,WR,Randy Moss,Fr,77,210,1000,1000,1000,1000,1000,1000,1000
+PLAYER,ALA,WR,Larry Fitzgerald,Fr,78,220,100,100,100,100,100,100,100
+PLAYER,ALA,WR,Calvin Johnson JR.,Fr,78,220,100,100,100,100,100,100,100
+PLAYER,ALA,TE,Tony Gonzalez,Fr,79,250,100,100,100,100,100,100,100
+PLAYER,ALA,OL,Art Shell,Fr,78,260,100,100,100,100,100,100,100
+PLAYER,ALA,OL,Anthony Munoz,Fr,78,260,100,100,100,100,100,100,100
+PLAYER,ALA,OL,Lary Allen,Fr,78,260,100,100,100,100,100,100,100
+PLAYER,ALA,OL,John Allen,Fr,78,260,100,100,100,100,100,100,100
+PLAYER,ALA,OL,Gene Upshaw,Fr,78,260,100,100,100,100,100,100,100
+PLAYER,ALA,K,Adam Vinatieri,Fr,69,175,100,100,100,100,100,100,100
+PLAYER,ALA,DL,Deacon Jones,Fr,78,286,100,100,100,100,100,100,100
+PLAYER,ALA,DL,Reggie White,Fr,78,286,100,100,100,100,100,100,100
+PLAYER,ALA,DL,John Randle,Fr,78,286,100,100,100,100,100,100,100
+PLAYER,ALA,DL,Joe Greene,Fr,78,286,100,100,100,100,100,100,100
+PLAYER,ALA,LB,Derrick Brooks,Fr,74,235,100,100,100,100,100,100,100
+PLAYER,ALA,LB,Lawrence Taylor,Fr,74,235,100,100,100,100,100,100,100
+PLAYER,ALA,LB,Ray Lewis,Fr,74,235,100,100,100,100,100,100,100
+PLAYER,ALA,CB,Deion Sanders,Fr,72,200,100,100,100,100,100,100,100
+PLAYER,ALA,CB,Rod Woodson,Fr,72,200,100,100,100,100,100,100,100
+PLAYER,ALA,CB,Darrell Reevis,Fr,72,205,100,100,100,100,100,100,100
+PLAYER,ALA,S,Ed Reed,Fr,74,215,100,100,100,100,100,100,100
+PLAYER,ALA,S,Ronnie Lott,Fr,74,215,100,100,100,100,100,100,100
+END_FILE,,,,,,,,,,,,,
