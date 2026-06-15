@@ -101,7 +101,6 @@ TEAM,AAC,East,Connecticut,CONN,25,TLSA,,,,,,,
 # OC,ALA,Mike Locksley,40,99,QB,Deep Pass,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 # DC,ALA,Kirby Smart,40,99,LB,Inside Run,,,,,,,
-# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # PLAYER,ALA,QB,Peyton Manning,Fr,78,220,100,100,100,100,100,100,100
 # PLAYER,ALA,QB,Dan Marino,Fr,78,220,100,100,100,100,100,100,100
@@ -129,5 +128,4 @@ TEAM,AAC,East,Connecticut,CONN,25,TLSA,,,,,,,
 # PLAYER,ALA,CB,Darrell Reevis,Fr,72,205,100,100,100,100,100,100,100
 # PLAYER,ALA,S,Ed Reed,Fr,74,215,100,100,100,100,100,100,100
 # PLAYER,ALA,S,Ronnie Lott,Fr,74,215,100,100,100,100,100,100,100
-
 END_FILE,,,,,,,,,,,,,
